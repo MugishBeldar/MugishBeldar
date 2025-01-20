@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **open-source full-stack projects**
 - ✏️ Proficient in **JavaScript**, **Node.js**, **React**, **MongoDB**, **MySQL**, and **Rust**
 - 🌱 Actively enhancing my **problem-solving skills** with **data structures and algorithms**
-- 📫 Check out my **[Portfolio]([https://mugishbeldar.github.io/mugish.beldar/](https://portfolio-eta-nine-47.vercel.app/))**
+- 📫 Check out my **[Portfolio](https://portfolio-eta-nine-47.vercel.app/)**
 
 <h2>🌐 Socials:</h2>
 
